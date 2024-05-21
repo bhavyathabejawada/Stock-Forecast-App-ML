@@ -6,7 +6,6 @@
 
 The Stock Forecast App is your gateway to precision forecasting in the dynamic world of Nasdaq stocks. Powered by cutting-edge technology and backed by robust machine learning algorithms, this intuitive web application arms investors with accurate predictions spanning from 1 to 10 years into the future. Whether you're a seasoned trader or a novice investor, the Stock Forecast App provides you with actionable insights to navigate the complexities of financial markets confidently.
 
--> To experience the Stock Forecast App, [click here](https://stock-prediction-web-app-ml.streamlit.app/?embed_options=dark_theme).
 
 -> View here for a quick demo, CLICK BELOW  
 [<img src="https://img.youtube.com/vi/3wDDKFrcKy8/maxresdefault.jpg" width="200" height="100">](https://www.youtube.com/watch?v=3wDDKFrcKy8)
