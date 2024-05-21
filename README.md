@@ -56,6 +56,5 @@ Our app harnesses the power of machine learning to deliver accurate forecasts. L
 
 **MIT License**
 
-This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/ishita48/Stock-Prediction-Web-App-ML/blob/main/LICENSE) file for details.
-
+This project is licensed under the terms of the MIT license. See the [LICENSE](https://github.com/bhavyathabejawada/Stock-Guide-Web-App-ML/blob/main/LICENSE) file for details.
 For contributions, feedback, or inquiries, please feel free to reach out through the Issues or Pull Requests sections of this repository. Together, we'll shape the future of investing with the Stock Forecast App.
