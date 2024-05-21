@@ -7,7 +7,7 @@
 The Stock Forecast App is your gateway to precision forecasting in the dynamic world of Nasdaq stocks. Powered by cutting-edge technology and backed by robust machine learning algorithms, this intuitive web application arms investors with accurate predictions spanning from 1 to 10 years into the future. Whether you're a seasoned trader or a novice investor, the Stock Forecast App provides you with actionable insights to navigate the complexities of financial markets confidently.
 
 
- <br> OR<br> just click "view raw" for the video to download: [here]().<br>
+ <br> OR<br> just click "view raw" for the video to download: [here](https://github.com/bhavyathabejawada/Stock-Forecast-App-ML/blob/main/Stock%20Forecast%20App.webm).<br>
 
 **Technological Backbone**
 
